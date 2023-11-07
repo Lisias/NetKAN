@@ -1,7 +1,7 @@
-{
-    "spec_version": "v1.4",
-    "identifier": "RONoCareer",
-    "$kref": "#/ckan/netkan/https://raw.githubusercontent.com/KSP-RO/RONoCareer/master/RONoCareer.netkan",
-    "x_netkan_license_ok": true,
-    "tags": [ "career" ]
-}
+spec_version: v1.4
+identifier: RONoCareer
+$kref: >-
+  #/ckan/netkan/https://raw.githubusercontent.com/KSP-RO/RONoCareer/master/RONoCareer.netkan
+x_netkan_license_ok: true
+tags:
+  - career
